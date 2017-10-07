@@ -1,0 +1,20 @@
+{
+  "name": "net-server-event-listening",
+  "version": "0.0.0",
+  "description": "a net.Server event handler for the listening event",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "net.Server event",
+    "net.Server event listening"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/net-server/event-listening.git"
+  },
+  "bugs": {
+    "url": "https://github.com/net-server/event-listening/issues"
+  },
+  "homepage": "https://github.com/net-server/event-listening#readme"
+}
